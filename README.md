@@ -1,5 +1,2 @@
  - Make Celsius and Farenheit toggle
  - Make Phone UI
- - What are and how does async functions work 
- - What is and how does fetch works
- - What is await and how does it work
